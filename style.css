@@ -1,0 +1,130 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+    font-family: Helvetica, sans-serif;
+    
+}
+
+.sticky_menu{
+    background-color: #000000;
+    color: #aaaaaa;
+    width: 100%;
+    height: 60px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 10%;
+    font-size: 25pt;
+    position: fixed;
+    z-index: 100;
+}
+
+.sticky_menu>a{
+    text-decoration: none;
+    color: #aaaaaa;
+}
+
+.sticky_menu>a:hover{
+    color: white;
+}
+
+.movie{
+    width: 300px;
+    margin-bottom: 50px;
+    background-color: #fff;
+    float: left;
+    border-radius: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.inner_img{
+    /* width: 250px;
+    height: 350px; */
+    height: fit-content;
+    width: fit-content;
+    padding: 20px;
+    background-color: yellow;
+    border-radius: 25px;
+    position: relative;
+    margin:auto;
+}
+
+.headline{
+    color: #555;
+    font-size: 20pt;
+    margin: auto;
+    position: relative;
+    padding: 10px;
+    text-align: center;
+}
+
+.description{
+    color: #555;
+    font-size: 12pt;
+    margin: auto;
+    position: relative;
+    padding: 10px;
+    text-align: center;
+}
+
+.content{
+    margin-top: 0px;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-top: 90px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+img{
+    width: 200px;
+    height: 300px;
+    border-radius: 25px;
+}
+
+.popUpOverlay{
+    position: fixed;
+    inset: 0;
+    background-color: rgba(0, 0, 0, 0.4);
+    opacity: 1;
+    pointer-events: auto;
+    z-index: 100;
+}
+
+.youtubePlayer{
+    position: fixed;
+    width: 80%;
+    left: 50%;
+    height: 500px;
+    transform: translate(-50%, 10%);
+    /* background-color: red; */
+}
+
+.youtubePlayer iframe{
+    width:  100%;
+    aspect-ratio: 16/9;
+}
+
+
+/* for tablet  mobile*/
+@media only screen and (max-width: 900px) {
+    
+
+    .youtubePlayer iframe{
+        width:  100%;
+        aspect-ratio: 4/3;
+    }
+
+    .youtubePlayer{
+        position: fixed;
+        width: 80%;
+        left: 50%;
+        height: 500px;
+        transform: translate(-50%, 50%);
+        
+    }
+    
+}
+

@@ -1,0 +1,33 @@
+[
+    {
+        "video" :   "https://www.youtube.com/embed/aOb15GVFZxU",
+        "img"   :   "https://i0.wp.com/inzpy.com/wp-content/uploads/2022/04/%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B9%80%E0%B8%99%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%AB%E0%B8%B2-26.jpg?resize=696%2C446&ssl=1",
+        "title" :   "FAST X",
+        "desc"  :   "Dominic Toretto must protect his crew and family from Cipher, who now joins forces with Dante Reyes, the son of drug lord Hernan Reyes"
+    },
+    {   "video" :   "https://www.youtube.com/embed/19ikl8vy4zs",
+        "img"   :   "https://upload.wikimedia.org/wikipedia/en/e/e1/The_Equalizer_3_poster.jpg",
+        "title" :   "THE EQUALIZER 3",
+        "desc"  :   "Robert McCall finds himself at home in Southern Italy but he discovers his friends are under the control of local crime bosses. As events turn deadly"
+    },
+    {   "video" :   "https://www.youtube.com/embed/bK6ldnjE3Y0",
+        "img"   :   "https://m.media-amazon.com/images/M/MV5BZWI2YWU2ODItYzBmNi00Yjc2LWJlMDQtMGJlMmUxM2M3NzMxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+        "title" :   "Oppenheimer",
+        "desc"  :   "The film follows the life of theoretical physicist J. Robert Oppenheimer, the director of the Los Alamos Laboratory during the Manhattan Project in World War II."
+    },
+    {   "video" :   "https://www.youtube.com/embed/NemPTW_VaF0",
+        "img"   :   "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx6Z514UF2d6E_oN8aWNxrOkKqrlgdZctZCA&usqp=CAU",
+        "title" :   "John Wick: Chapter 4",
+        "desc"  :   "John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances ."
+    },
+    {   "video" :   "https://www.youtube.com/embed/_ceCAJ8EYJw",
+        "img"   :   "https://movies.universalpictures.com/media/02-smb-dm-mobile-banner-1080x745-pl-f01-022723-63fe3cbc4df54-1.jpg",
+        "title" :   "The Super Mario Bros",
+        "desc"  :   "Italian-American brothers Mario and Luigi have recently started a plumbing business in Brooklyn, to the derision of their antagonistic ex-employer Spike, and the disapproval of their father."
+    },
+    {   "video" :   "https://www.youtube.com/embed/odM92ap8_c0",
+        "img"   :   "https://upload.wikimedia.org/wikipedia/th/f/f3/%E0%B9%83%E0%B8%9A%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B9%8C_%E0%B8%81%E0%B9%87%E0%B8%AD%E0%B8%94%E0%B8%8B%E0%B8%B4%E0%B8%A5%E0%B8%A5%E0%B9%88%E0%B8%B2_%E0%B8%9B%E0%B8%B0%E0%B8%97%E0%B8%B0_%E0%B8%84%E0%B8%AD%E0%B8%87.jpg",
+        "title" :   "Godzilla vs. Kong",
+        "desc"  :   "The epic next chapter in the cinematic Monsterverse pits two of the greatest icons in motion picture history against each other the fearsome Godzilla and the mighty ."
+    }
+]
